@@ -1,6 +1,6 @@
 # Products-and-sales
 *****1st page index.php
-
+Server: Xampp , MySQL database
 
 *****Login: Admin account:
 
